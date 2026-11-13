@@ -23,7 +23,7 @@ public class Calculatrice {
     public static void main(String[] args) {
         Calculatrice calc = new Calculatrice();
 
-        System.out.println("10 + 5 = " + calc.addition(10, 5));
+        System.out.println("Résultat addition Charakrak = " + calc.addition(10, 5));
         System.out.println("10 - 5 = " + calc.soustraction(10, 5));
         System.out.println("10 * 5 = " + calc.multiplication(10, 5));
         System.out.println("10 / 5 = " + calc.division(10, 5));
